@@ -1,1 +1,1 @@
-# dddeu2018
+# lean functional
